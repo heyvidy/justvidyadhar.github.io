@@ -1,0 +1,45 @@
+body {
+	background-color: #fbf3ea;
+	font-family: 'Lato', sans-serif;
+	margin: 40px;
+}
+
+.header {
+		opacity: 0.9;
+	}
+
+.header h1 {
+	margin-bottom: 5px;
+}
+
+.header h1 a {
+	text-decoration: none;
+	color: #555555;
+}
+
+.header p {
+	margin-top: 0;
+}
+
+.content {
+	max-width:700px;
+}
+
+.menu {
+	width:100%;
+	margin-bottom:3px;
+}
+
+.weblog {
+	list-style-type: none;
+	line-height: 2.5;
+	padding-left: 0;
+}
+
+.weblog-title {
+	color: #555555;
+}
+
+.weblog-title:hover {
+	color: #333333;
+}
