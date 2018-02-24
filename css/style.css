@@ -30,6 +30,10 @@ body {
 	margin-bottom:3px;
 }
 
+.menu-container {
+	margin-bottom: 30px;
+}
+
 .weblog {
 	list-style-type: none;
 	line-height: 2.5;
