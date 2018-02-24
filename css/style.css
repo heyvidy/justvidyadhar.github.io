@@ -36,8 +36,11 @@ body {
 
 .weblog {
 	list-style-type: none;
-	line-height: 2.5;
 	padding-left: 0;
+}
+
+li {
+	margin: 20px 0;
 }
 
 .weblog-title {
